@@ -15,17 +15,17 @@ pip install -r requirements.txt
 ## 安装Allure2相关
 github地址：https://github.com/allure-framework/allure2<br>
 下载之后，安装在本地，并且给allure配置环境变量，运行查看是否成功
-![allure环境配置](file:///C:/Users/Yu/Desktop/allure%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.png)
+![allure环境配置](https://github.com/Bateer/Markdown_picture_use/blob/master/allure%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.png)
 
 ## 执行实例
 安装配置好第三方依赖以及allure之后，直接运行main
 生成日志，以及相关测试报工：
 1. 日志以及测试报告所在目录
-![目录](file:///C:/Users/Yu/Desktop/%E7%9B%AE%E5%BD%95.png)
+![目录](https://github.com/Bateer/Markdown_picture_use/blob/master/%E7%9B%AE%E5%BD%95.png)
 2. 根据不同的等级打印日志文件
-![日志](file:///C:/Users/Yu/Desktop/%E6%97%A5%E5%BF%97.png)
+![日志](https://github.com/Bateer/Markdown_picture_use/blob/master/%E7%9B%AE%E5%BD%95.png)
 3. 生成的allure测试报告
-![allure报告](file:///C:/Users/Yu/Desktop/allure%E6%8A%A5%E5%91%8A.png)
+![allure报告](https://github.com/Bateer/Markdown_picture_use/blob/master/allure%E6%8A%A5%E5%91%8A.png)
 ## 持续更新
 后续也可加入结合Jenkins
 
