@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_baidu",
+      "children" : [ {
+        "name" : "Test_First",
+        "children" : [ {
+          "name" : "test_01",
+          "uid" : "5746da09a771a2b4",
+          "parentUid" : "bc4d4da3bb399da950735b98c828d699",
+          "status" : "passed",
+          "time" : {
+            "start" : 1585792753513,
+            "stop" : 1585792753968,
+            "duration" : 455
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bc4d4da3bb399da950735b98c828d699"
+      } ],
+      "uid" : "7decd6860a4dd994b75eac9694f5bc86"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

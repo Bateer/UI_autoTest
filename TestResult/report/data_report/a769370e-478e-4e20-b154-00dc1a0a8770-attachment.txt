@@ -1,0 +1,2 @@
+2020-04-02 09:59:13,513-INFO-base_page.py: find [ line:92 ] page_name:---id元素找到
+2020-04-02 09:59:13,786-INFO-base_page.py: find [ line:92 ] page_name:百度首页---id元素找到

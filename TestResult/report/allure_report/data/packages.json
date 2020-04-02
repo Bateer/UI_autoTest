@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCase.test_baidu",
+    "children" : [ {
+      "name" : "test_01",
+      "uid" : "5746da09a771a2b4",
+      "parentUid" : "8dfddb05a289fa66c0c73694c27c3e85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585792753513,
+        "stop" : 1585792753968,
+        "duration" : 455
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "TestCase.test_baidu"
+  } ]
+}

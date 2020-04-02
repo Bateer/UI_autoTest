@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试第一个例子",
+    "children" : [ {
+      "name" : "被测场景py",
+      "children" : [ {
+        "name" : "test_01",
+        "uid" : "5746da09a771a2b4",
+        "parentUid" : "166b90952afd1e8bf13e5dc998fa6c5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585792753513,
+          "stop" : 1585792753968,
+          "duration" : 455
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "166b90952afd1e8bf13e5dc998fa6c5f"
+    } ],
+    "uid" : "d5bbf8820e44b574e968730760422553"
+  } ]
+}

@@ -1,0 +1,2 @@
+INFO     root:base_page.py:92 page_name:---id元素找到
+INFO     root:base_page.py:92 page_name:百度首页---id元素找到
